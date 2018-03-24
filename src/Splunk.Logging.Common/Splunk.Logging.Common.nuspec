@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Splunk.Logging.Common</id>
+    <id>Splunk.Logging.Common.StrongName</id>
     <version>$version$</version>
     <title>Splunk Logging for .NET - Common Components</title>
     <authors>Splunk, Inc.</authors>
